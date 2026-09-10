@@ -1,0 +1,23 @@
+{
+  "name": "miniapp-product-creator",
+  "version": "0.1.0",
+  "description": "Privacy-First Interactive Guide to Create Digital Products",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "npm run build"
+  },
+  "dependencies": {
+    "astro": "^4.11.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@astrojs/react": "^3.1.0",
+    "lucide-react": "^0.408.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  }
+}
